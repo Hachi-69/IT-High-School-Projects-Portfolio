@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="stile.css">
+    <title></title>
+  </head>
+
+<script type="text/javascript">
+  var isGiorno=false;
+
+  function giorno()
+  {
+    if(!isGiorno){
+      document.getElementById("contenitoreSkyNotte").style.visibility="hidden";
+      document.getElementById("contenitoreGroundNotte").style.visibility="hidden";
+      isGiorno=true;
+    }
+    else{
+      document.getElementById("contenitoreSkyNotte").style.visibility="visible";
+      document.getElementById("contenitoreGroundNotte").style.visibility="visible";
+      isGiorno=false;
+    }
+  }
+</script>
+  <body>
+    <div class="contenitore">
+      <div class="leaves">
+        <div class="purpleBall">
+        </div>
+        <div class="blueBall" onmouseover="giorno()" onmouseout="giorno()">
+        </div>
+        <div class="pinkBall">
+        </div>
+        <div class="redBall">
+        </div>
+        <div class="yellowBall">
+        </div>
+      </div>
+      <div class="base">
+      </div>
+      <div class="stella" onclick="giorno()">
+        <div class="star1">
+        </div>
+      </div>
+    </div>
+      <div id="contenitoreSkyNotte">
+        <div class="sky">
+        </div>
+        <div class="skyStar">
+        </div>
+        <div class="skyStar1">
+        </div>
+        <div class="skyStar2">
+        </div>
+        <div class="skyStar3">
+        </div>
+        <div class="skyStar4">
+        </div>
+        <div class="skyStar5">
+        </div>
+        <div class="skyStar6">
+        </div>
+        <div class="skyStar7">
+        </div>
+        <div class="skyStar8">
+        </div>
+        <div class="skyStar9">
+        </div>
+      </div>
+    <div id="contenitoreSkyGiorno">
+      <div class="SkyGiorno">
+        <div class="sun">
+          <img src="SUN.png">
+        </div>
+        <div class="cloud1">
+          <img src="Cloud1.png">
+        </div>
+        <div class="cloud2">
+          <img src="Cloud2.png">
+        </div>
+      </div>
+    </div>
+    <div id="contenitoreGroundNotte">
+      <div class="groundNotte">
+      </div>
+    </div>
+    <div id="contenitoreGroundGiorno">
+      <div class="groundGiorno">
+      </div>
+    </div>
+    <div class="present">
+    <div class="lid">
+      <span></span>
+    </div>
+    <div class="promo">
+      <p>by Turillo Luca</p>
+      <h2>Prova a cliccare la stella ;)</h2>
+    </div>
+    <div class="box">
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+  </body>
+</html>

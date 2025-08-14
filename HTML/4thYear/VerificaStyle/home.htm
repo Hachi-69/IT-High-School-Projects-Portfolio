@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> TURILLO </title>
+    <script>
+    function sas(){
+      var nome = prompt('nome?');
+      var n = prompt('quanti voti per materia?');
+      a = Array.from({length: 4*n}, () => Math.floor(Math.random() * 10 + 1));
+      for (var i = 0; i < a.length; i++) {
+        document.getElementById("sus").innerHTML+=a[i] + " ";
+    }
+    document.getElementById("sus").innerHTML+="</br>";
+  }
+  function calc(){
+    var average = 0;
+    var min = a[0];
+    var max = a[0];
+    for(var i = 0; i < a.length; i++){
+      average += a[i];
+      if(a[i] < min){
+        min = a[i];
+      }
+      if(a[i] > max){
+        max = a[i];
+      }
+    }
+    average /= a.length;
+    document.getElementById("media").innerHTML+="</br>" + "Media: " + average + " ";
+    document.getElementById("media").innerHTML+="</br>" + "Minimo: " + min + " ";
+    document.getElementById("media").innerHTML+="</br>" + "Massimo: " + max + " ";
+    if (average < 6) {
+      document.getElementById("media").style.backgroundColor="red";
+    }else if (average > 6 && average < 7) {
+      document.getElementById("media").style.backgroundColor="orange";
+    }else {
+      document.getElementById("media").style.backgroundColor="green";
+    }
+  }
+    </script>
+    <style>
+      #sus{
+        width: 300px;
+        height: 100px;
+        background-color: lightgray;
+        position: absolute;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+      #media{
+        width: 300px;
+        height: 100px;
+        background-color: lightgray;
+        position: absolute;
+        top:200px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+      #btn{
+        width: 100px;
+        height: 50px;
+        background-color: lightgray;
+        position: absolute;
+        top:400px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body onload="sas()">
+    <center>
+      <div id="sus">
+      </div>
+      <div id="media">
+      </div>
+      <button id="btn" onclick="calc()">CALC</button>
+    </center>
+  </body>
+</html>

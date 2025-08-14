@@ -1,0 +1,759 @@
+.Background{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 4000px;
+  background: #1B2838;
+  z-index: 0;
+}
+
+a:link {
+  color: inherit;
+  text-decoration: none;
+}
+a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+.ElencoLaterale{
+  background-color: #1B2838;
+  position: relative;
+  width: 500px;
+  height: 1000px;
+  z-index: 1;
+}
+
+.SubTitoli:hover{
+  color: #ffffff;
+}
+
+.Titoli{
+  font-size: 11px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #c6d4df;
+}
+
+.SubTitoli{
+  font-size: 13px;
+  font-family: "Motiva Sans", Sans-serif;
+  transition: color 0.2s;
+  color: #66c0f4;
+}
+
+.DagliAmici{
+  position: relative;
+  top: 114px;
+  right: 15px;
+}
+
+.DaiCuratori{
+  position: relative;
+  top: 134px;
+  right: 31px;
+}
+
+.Etichette{
+  position: relative;
+  top: 154px;
+  right: 47px;
+}
+
+.Consigli{
+  position: relative;
+  top: 210px;
+  right: 63px;
+}
+
+.NuoveUscite1{
+  position: relative;
+  top: 230px;
+  right: 79px;
+}
+
+.PiuVenduti{
+  position: relative;
+  top: 285px;
+  right: 95px;
+}
+
+.NuoveUscite2{
+  position: relative;
+  top: 305px;
+  right: 111px;
+}
+
+.InArrivo{
+  position: relative;
+  top: 325px;
+  right: 127px;
+}
+
+.OfferteSpeciali{
+  position: relative;
+  top: 343px;
+  right: 143px;
+}
+
+.TitoliInVR{
+  position: relative;
+  top: 363px;
+  right: 159px;
+}
+
+.SupportoPerIController{
+  position: relative;
+  top: 363px;
+  right: 15px;
+}
+
+.elencoSX{
+  position: absolute;
+  top: 46px;
+  right: 159px:
+}
+
+.ElencoLateraleTxt{
+  position: relative;
+  background-color: #1B2838;
+  width: 200px;
+  height: 1000px;
+  left: 250px;
+  text-align: left;
+}
+
+.BarraLaterale{
+  position: relative;
+  top: 100px;
+  width: 200px;
+}
+
+.Negozio{
+  position: relative;
+  height: 40px;
+  width: 133.3px;
+}
+
+.Novita{
+  position: relative;
+  left: 133.3px;
+  bottom: 40px;
+  height: 40px;
+  width: 133.3px;
+}
+
+.Categorie{
+  position: relative;
+  left: 266.6px;
+  bottom: 80px;
+  height: 40px;
+  width: 133.3px;
+}
+
+.punti{
+  position: relative;
+  left: 399.9px;
+  bottom: 120px;
+  height: 40px;
+  width: 133.3px;
+}
+
+.Notizie{
+  position: relative;
+  left: 533.2px;
+  bottom: 160px;
+  height: 40px;
+  width: 133.3px;
+}
+
+.Laboratori{
+  position: relative;
+  left: 666.5px;
+  bottom: 200px;
+  height: 40px;
+  width: 133.3px;
+}
+
+.Negozio:hover{
+  background: linear-gradient(90deg, rgba(34,111,186,1) 0%, rgba(15,33,110,0) 100%);
+}
+
+.Novita:hover{
+  background: linear-gradient(90deg, rgba(34,111,186,1) 0%, rgba(15,33,110,0) 100%);
+}
+
+.Categorie:hover{
+  background: linear-gradient(90deg, rgba(34,111,186,1) 0%, rgba(15,33,110,0) 100%);
+}
+
+.punti:hover{
+  background: linear-gradient(90deg, rgba(34,111,186,1) 0%, rgba(15,33,110,0) 100%);
+}
+
+.Notizie:hover{
+  background: linear-gradient(90deg, rgba(34,111,186,1) 0%, rgba(15,33,110,0) 100%);
+}
+
+.Laboratori:hover{
+  background: linear-gradient(90deg, rgba(34,111,186,1) 0%, rgba(15,33,110,0) 100%);
+}
+
+.NegozioTxt{
+  position: relative;
+  top: 10px;
+}
+
+.NovitaTxt{
+  position: relative;
+  top: 10px;
+}
+
+.CategorieTxt{
+  position: relative;
+  top: 10px;
+}
+
+.puntiTxt{
+  position: relative;
+  top: 10px;
+}
+
+.NotizieTxt{
+  position: relative;
+  top: 10px;
+}
+
+.LaboratoriTxt{
+  position: relative;
+  top: 10px;
+}
+
+.steamcards{
+  position: relative;
+  top: 90px;
+  left: 250px;
+  width: 200px;
+  z-index: 2;
+}
+
+fieldset{
+  border: 0px;
+}
+
+.MenuSup{
+  background: linear-gradient(90deg, rgba(59,99,144,1) 0%, rgba(15,33,110,1) 100%);
+  position: relative;
+  bottom: 80px;
+  width: 800px;
+  height: 40px;
+  left: 500px;
+  color: #e5e5e5;
+  font-size: 14px;
+  text-shadow: 0px 2px 3px rgb(0 0 0 / 30%);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  z-index: 1;
+}
+
+.evidenza{
+  position: relative;
+  bottom: 10px;
+  margin-bottom: 4px;
+  letter-spacing: 0.01em;
+  font-size: 14px;
+  font-family: "Motiva Sans", Sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+  margin: 0 0 10px;
+  font-weight: normal;
+  padding-top: 2px;
+  margin-bottom: 4px;
+  text-shadow: 0px 2px 3px rgb(0 0 0 / 30%);
+}
+
+.offerteSpeciali{
+  position: relative;
+  bottom: 30px;
+  margin-bottom: 4px;
+  letter-spacing: 0.01em;
+  font-size: 14px;
+  font-family: "Motiva Sans", Sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+  margin: 0 0 10px;
+  font-weight: normal;
+  padding-top: 2px;
+  margin-bottom: 4px;
+  text-shadow: 0px 2px 3px rgb(0 0 0 / 30%);
+  z-index: 5;
+}
+
+.GamesRac{
+  position: relative;
+  bottom: 950px;
+  left: 550px;
+  width: 750px;
+  height: 279.5px;
+  z-index: 1;
+}
+
+.ThumbsContainer{
+  position: relative;
+  bottom: 3350px;
+  width: 230px;
+  height: 20px;
+  padding-bottom: 4px;
+  text-align: center;
+}
+
+.Thumbs1{
+  position: relative;
+  height: 9px;
+  width: 15px;
+  margin: 12px 3px;
+  border-radius: 2px;
+  transition: background-color 0.2s;
+  background-color: hsla(202,60%,100%,0.7);
+}
+
+.Thumbs2{
+  position: relative;
+  left: 19px;
+  bottom: 21px;
+  height: 9px;
+  width: 15px;
+  margin: 12px 3px;
+  border-radius: 2px;
+  transition: background-color 0.2s;
+  background-color: #4D657B;
+}
+
+.Thumbs3{
+  position: relative;
+  left: 38px;
+  bottom: 42px;
+  height: 9px;
+  width: 15px;
+  margin: 12px 3px;
+  border-radius: 2px;
+  transition: background-color 0.2s;
+  background-color: #4D657B;
+}
+
+.Thumbs4{
+  position: relative;
+  left: 57px;
+  bottom: 63px;
+  height: 9px;
+  width: 15px;
+  margin: 12px 3px;
+  border-radius: 2px;
+  transition: background-color 0.2s;
+  background-color: #4D657B;
+}
+
+.Thumbs5{
+  position: relative;
+  left: 76px;
+  bottom: 84px;
+  height: 9px;
+  width: 15px;
+  margin: 12px 3px;
+  border-radius: 2px;
+  transition: background-color 0.2s;
+  background-color: #4D657B;
+}
+
+.Thumbs6{
+  position: relative;
+  left: 95px;
+  bottom: 105px;
+  height: 9px;
+  width: 15px;
+  margin: 12px 3px;
+  border-radius: 2px;
+  transition: background-color 0.2s;
+  background-color: #4D657B;
+}
+
+.Thumbs7{
+  position: relative;
+  left: 114px;
+  bottom: 126px;
+  height: 9px;
+  width: 15px;
+  margin: 12px 3px;
+  border-radius: 2px;
+  transition: background-color 0.2s;
+  background-color: #4D657B;
+}
+
+.Thumbs8{
+  position: relative;
+  left: 133px;
+  bottom: 147px;
+  height: 9px;
+  width: 15px;
+  margin: 12px 3px;
+  border-radius: 2px;
+  transition: background-color 0.2s;
+  background-color: #4D657B;
+}
+
+.Thumbs9{
+  position: relative;
+  left: 152px;
+  bottom: 168px;
+  height: 9px;
+  width: 15px;
+  margin: 12px 3px;
+  border-radius: 2px;
+  transition: background-color 0.2s;
+  background-color: #4D657B;
+}
+
+.Thumbs10{
+  position: relative;
+  left: 171px;
+  bottom: 189px;
+  height: 9px;
+  width: 15px;
+  margin: 12px 3px;
+  border-radius: 2px;
+  transition: background-color 0.2s;
+  background-color: #4D657B;
+}
+
+.Thumbs11{
+  position: relative;
+  left: 190px;
+  bottom: 210px;
+  height: 9px;
+  width: 15px;
+  margin: 12px 3px;
+  border-radius: 2px;
+  transition: background-color 0.2s;
+  background-color: #4D657B;
+}
+
+.Thumbs12{
+  position: relative;
+  left: 209px;
+  bottom: 231px;
+  height: 9px;
+  width: 15px;
+  margin: 12px 3px;
+  border-radius: 2px;
+  transition: background-color 0.2s;
+  background-color: #4D657B;
+}
+
+.RR{
+  position: relative;
+  width: 750px;
+  height: 300px;
+  z-index: 12;
+}
+
+.PUBG{
+  position: relative;
+  bottom: 304px;
+  width: 750px;
+  height: 300px;
+  z-index: 11;
+}
+
+.DES{
+  position: relative;
+  bottom: 608px;
+  width: 750px;
+  height: 300px;
+  z-index: 10;
+}
+
+.HOG{
+  position: relative;
+  bottom: 912px;
+  width: 750px;
+  height: 300px;
+  z-index: 9;
+}
+
+.NBA{
+  position: relative;
+  bottom: 1216px;
+  width: 750px;
+  height: 300px;
+  z-index: 8;
+}
+
+.CSGO{
+  position: relative;
+  bottom: 1520px;
+  width: 750px;
+  height: 300px;
+  z-index: 7;
+}
+
+.WAR{
+  position: relative;
+  bottom: 1824px;
+  width: 750px;
+  height: 300px;
+  z-index: 6;
+}
+
+.DOTA{
+  position: relative;
+  bottom: 2128px;
+  width: 750px;
+  height: 300px;
+  z-index: 5;
+}
+
+.APEX{
+  position: relative;
+  bottom: 2432px;
+  width: 750px;
+  height: 300px;
+  z-index: 4;
+}
+
+.MW{
+  position: relative;
+  bottom: 2736px;
+  width: 750px;
+  height: 300px;
+  z-index: 3;
+}
+
+.R6{
+  position: relative;
+  bottom: 3040px;
+  width: 750px;
+  height: 300px;
+  z-index: 2;
+}
+
+.FIFA{
+  position: relative;
+  bottom: 3344px;
+  width: 750px;
+  height: 300px;
+  z-index: 1;
+}
+
+.ArrowRight{
+  position: absolute;
+  left: 750px;
+  bottom: 80px;
+  z-index: 2;
+}
+
+.ArrowLeft{
+    position: absolute;
+    bottom: 80px;
+    right: 750px;
+    z-index: 2;
+}
+
+.ArrowLeft:hover{
+    z-index: 1;
+}
+
+.ArrowRight:hover{
+    z-index: 1;
+}
+
+.ArrowLeftHover:hover{
+    z-index: 2;
+}
+
+.ArrowRightHover:hover{
+    z-index: 2;
+}
+
+.ArrowRightHover{
+  position: absolute;
+  left: 750px;
+  bottom: 80px;
+  z-index: 1;
+}
+
+.ArrowLeftHover{
+  position: absolute;
+  bottom: 80px;
+  right: 750px;
+  z-index: 1;
+}
+
+.ArrowRight1{
+  position: absolute;
+  bottom: 1150px;
+  left: 750px;
+  z-index: 2;
+}
+
+.ArrowLeft1{
+    position: absolute;
+    bottom: 1150px;
+    right: 96px;
+    z-index: 2;
+}
+
+.ArrowLeft1:hover{
+    z-index: 1;
+}
+
+.ArrowRight1:hover{
+    z-index: 1;
+}
+
+.ArrowLeftHover1:hover{
+    z-index: 2;
+}
+
+.ArrowRightHover1:hover{
+    z-index: 2;
+}
+
+.ArrowRightHover1{
+  position: absolute;
+  left: 650px;
+  bottom: 1150px;
+  z-index: 1;
+}
+
+.ArrowLeftHover1{
+  position: absolute;
+  bottom: 1150px;
+  right: 196px;
+  z-index: 1;
+}
+
+.GamesRac1{
+  position: relative;
+  background-color: green;
+  bottom: 750px;
+  left: 550px;
+  width: 750px;
+  height: 279.5px;
+  z-index: 1;
+}
+
+.OFF1{
+  position: relative;
+  bottom: 25px;
+  width: 750px;
+  height: 300px;
+  z-index: 4;
+}
+
+.OFF2{
+  position: relative;
+  bottom: 329px;
+  width: 750px;
+  height: 300px;
+  z-index: 3;
+}
+
+.OFF3{
+  position: relative;
+  bottom: 633px;
+  width: 750px;
+  height: 300px;
+  z-index: 2;
+}
+
+.OFF4{
+  position: relative;
+  bottom: 937px;
+  width: 750px;
+  height: 300px;
+  z-index: 1;
+}
+
+.ArrowRight1{
+  position: relative;
+}
+
+.ArrowLeft1{
+  position: relative;
+}
+
+.ArrowRightHover1{
+  position: relative;
+}
+
+.ArrowLeftHover1{
+  position: relative;
+}
+
+.ThumbsContainer1{
+  position: relative;
+  bottom: 1050px;
+  right: 30px;
+}
+
+
+.Up{
+  position: sticky;
+  width: 100%;
+  height: 100px;
+  color: #b8b6b4;
+  font-family: "Motiva Sans", Sans-serif;
+  font-size: 14px;
+  background-color: #171A21;
+}
+
+.NEGOZIO{
+  position: relative;
+  left: 500px;
+  top: 10px;
+  transition: color 0.2s;
+}
+
+.COMUNITA{
+  position: relative;
+  left: 500px;
+  top: 10px;
+  transition: color 0.2s;
+}
+
+.CHAT{
+  position: relative;
+  left: 500px;
+  top: 10px;
+  transition: color 0.2s;
+}
+
+.ASSISTENZA{
+  position: relative;
+  left: 500px;
+  top: 10px;
+  transition: color 0.2s;
+}
+
+.NEGOZIO:hover{
+  color: #ffffff;
+}
+
+.COMUNITA:hover{
+  color: #ffffff;
+}
+
+.CHAT:hover{
+  color: #ffffff;
+}
+
+.ASSISTENZA:hover{
+  color: #ffffff;
+}
+
+.LogoSteam{
+  position: relative;
+  top: 25px;
+  left: 500px;
+  height: 45px;
+}

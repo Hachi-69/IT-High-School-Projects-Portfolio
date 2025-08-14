@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> TURILLO </title>
+    <script>
+    function array(){
+      n = prompt('Inserisci un numero maggiore di 0');
+      var array = [];
+      for (let i = 0; i < n; i++) {
+        array.push(Math.floor(Math.random()* 10 + 1));
+      }
+      document.getElementById("div1").innerHTML+=array + " ";
+
+      var arrayInvertito = [];
+      for (let i = n; i >= 0; i--) {
+        arrayInvertito.push(array[i]);
+      }
+      document.getElementById("div2").innerHTML+=arrayInvertito + " ";
+    }
+    </script>
+    <style>
+      #div1{
+        width: 300px;
+        height: 100px;
+        background-color: lightgray;
+        position: absolute;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+      #div2{
+        width: 300px;
+        height: 100px;
+        background-color: lightgray;
+        position: absolute;
+        top:300px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body onload="array()">
+    <center>
+      <div id="div1">
+      </div>
+      <div id="div2">
+      </div>
+    </center>
+  </body>
+</html>

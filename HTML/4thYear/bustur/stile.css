@@ -1,0 +1,141 @@
+.conenitore{
+	width:1170px;
+	height:1000px;
+}
+
+.scelta{
+	width:1170px;
+	height:20px;
+	background-color:orange;
+	font-family:verdana;
+}
+
+.titolo{
+	width:200px;
+	height:98px;
+	background-color:black;
+}
+
+.immagine{
+	width:970px;
+	height:98px;
+	background-color:black;
+	position:relative;
+	bottom:98px;
+	left:200px;
+	z-index:10;
+}
+.bus{
+	position:relative;
+	left:530px;
+	top:10px;
+}
+
+.testo{
+	width:350px;
+	height:450px;
+	background-color:lightgray;
+	position:relative;
+	bottom:98px;
+	
+}
+
+.vasco{
+	width:820px;
+	height:450px;
+	background-color:black;
+	position:relative;
+	bottom:548px;
+	left:350px;
+}
+
+.contenitoreImmagini{
+	width:1170px;
+	height:432px;
+	background-color:white;
+	position:relative;
+	bottom:548px;
+}
+
+.harry{
+	position:relative;
+	top:30px;
+}
+
+.Pearl{
+	position:relative;
+	left:300px;
+	bottom:130px;
+}
+
+.Green{
+	position:relative;
+	left:600px;
+	bottom:290px;
+}
+
+.Foo{
+	position:relative;
+	left:908px;
+	bottom:453px;
+}
+
+
+
+.Aero{
+	position:relative;
+	bottom:434px;
+}
+
+.Guns{
+	position:relative;
+	left:300px;
+	bottom:600px;
+}
+
+.Billie{
+	position:relative;
+	left:600px;
+	bottom:764px;
+}
+
+.Pinguini{
+	position:relative;
+	left:907px;
+	bottom:929px;
+}
+
+tr{
+	position:relative;
+	top:50px;
+	left:20px;
+}
+
+.data{
+	position:relative;
+	top:100px;
+}
+.fermata{
+	position:relative;
+	top:150px;
+}
+
+.bottone{
+	position:relative;
+	top:250px;
+	color: orange;
+}
+
+.Arancione{
+	width:1160px;
+	height:40px;
+	position:relative;
+	bottom:600px;
+	left:5px;
+	background-color:orange;
+}
+
+.eventi{
+	position:relative;
+	top:10px;
+}

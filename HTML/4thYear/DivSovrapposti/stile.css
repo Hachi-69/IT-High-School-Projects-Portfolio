@@ -1,0 +1,35 @@
+body{
+	background-color:black;
+}
+.div1{
+	height:50px;
+	width:50px;
+	background-color:red;
+}
+
+.div2{
+	height:50px;
+	width:50px;
+	background-color:green;
+	position:relative;
+	top:-12.5px;
+	left:40px;
+}
+
+.div3{
+	height:50px;
+	width:50px;
+	background-color:yellow;
+	position:relative;
+	top:-24.5px;
+	left:80px;
+}
+
+.div4{
+	height:50px;
+	width:50px;
+	background-color:pink;
+	position:relative;
+	top:-36.5px;
+	left:120px;
+}

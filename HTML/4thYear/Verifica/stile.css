@@ -1,0 +1,201 @@
+body{
+  background-color: gray;
+}
+
+.contenitoreTop{
+  background-color: white;
+  width: 962px;
+}
+
+.contenitoreBot{
+  background-color: white;
+  width: 962px;
+  height: 780px;
+}
+
+.logoAlto{
+  position: relative;
+  width: 300px;
+  bottom:150px;
+}
+
+.nunc{
+  position: relative;
+  bottom: 205px;
+  left: 500px;
+  font-size: 30px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 460px;
+}
+
+.home {
+  position: relative;
+  bottom: 100px;
+  width: 194px;
+  height: 40px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border: 2px solid purple;
+}
+
+.homeTxt{
+  position: relative;
+  top: 10px;
+}
+
+.about{
+  position: relative;
+  bottom: 144px;
+  left: 194px;
+  width: 192px;
+  height: 40px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border: 2px solid purple;
+}
+
+.aboutTxt{
+  position: relative;
+  top: 10px;
+}
+
+.solutions{
+  position: relative;
+  bottom: 188px;
+  left:386px;
+  background-color: black;
+  color: white;
+  width: 192px;
+  height: 40px;
+  text-align: center;
+  border: 2px solid purple;
+}
+
+.solutionsTxt{
+  position: relative;
+  top: 10px;
+}
+
+.portfolio{
+  position: relative;
+  bottom: 232px;
+  left:578px;
+  background-color: black;
+  color: white;
+  width: 192px;
+  height: 40px;
+  text-align: center;
+  border: 2px solid purple;
+}
+
+.portfolioTxt{
+  position: relative;
+  top: 10px;
+}
+
+.contact{
+  position: relative;
+  background-color: black;
+  color: white;
+  width: 187px;
+  height: 40px;
+  text-align: center;
+  bottom: 276px;
+  left:770px;
+  border: 2px solid purple;
+}
+
+.contactTxt{
+  position: relative;
+  top: 10px;
+}
+
+
+.nullam{
+  position: relative;
+  bottom: 220px;
+  left:20px;
+  background-color: rgb(12,41,47);
+  color: white;
+  height: 180px;
+  width: 222px;
+  text-align: center;
+}
+
+.nullamT{
+  font-size: 25px;
+  color:white;
+}
+
+.maurisTxt{
+  position: relative;
+  left: 20px;
+  bottom: 100px;
+
+}
+
+.maurisTesto{
+  color: rgb(163,49,126);
+  font-size: 25px;
+}
+
+.maurisImg{
+  position: relative;
+  bottom: 620px;
+  left:730px;
+  background-color: rgb(12,41,47);
+  height: 180px;
+  width: 222px;
+  color: white;
+  text-align: center;
+}
+
+.labore{
+  position: relative;
+  left: 730px;
+  bottom: 505px;
+  background-color: rgb(12,41,47);
+  color: white;
+  height: 200px;
+  width: 222px;
+  text-align: center;
+}
+.testo{
+  position: relative;
+  bottom: 990px;
+  left: 280px;
+}
+
+.titolo{
+  color: rgb(163,49,126);
+  font-size: 35px;
+}
+
+.subTit{
+  color: rgb(163,49,126);
+  font-size: 18px;
+}
+
+.menuBot{
+  background-color: black;
+  position: relative;
+  bottom: 200px;
+  height: 200px;
+  width: 950px;
+  color: white;
+}
+
+table{
+  position: relative;
+  left: 20px;
+  width: 100%;
+  height: 100%;
+}
+
+.viola{
+  color: rgb(163,49,126);
+  font-size: 18px;
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="in" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> SALUTI </title>
+    <script type="text/javascript">
+      function clicca() {
+        stringa = prompt('Nome e Cognome');
+        document.getElementById('sus').innerHTML += "Benvenuto "+ stringa;
+      }
+    </script>
+    <style>
+      #sus{
+        position: relative;
+        left: auto;
+        right: auto;
+        top: calc(50vh - 150px);
+        width: 300px;
+        height: 300px;
+        background-color: cyan;
+      }
+      #btn{
+        position: relative;
+        left: auto;
+        right: auto;
+        top: calc(50vh - 100px);
+        width: 100px;
+        height: 100px;
+        background-color: gray;
+      }
+    </style>
+  </head>
+  <body>
+  <center>
+    <div id="sus">
+    </div>
+      <div id="btn" onclick="clicca()">
+        CLICCA QUI
+      </div>
+  </center>
+  </body>
+</html>

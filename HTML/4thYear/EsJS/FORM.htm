@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="in" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> MAGGIORENNE </title>
+    <script type="text/javascript">
+      utentiPermessi=new Array(10);
+      utentiPermessi[0]="Grasso";
+      utentiPermessi[1]="Caciolo";
+      utentiPermessi[2]="Guerrini";
+      utentiPermessi[3]="Turillo";
+      utentiPermessi[4]="Mazzini";
+      utentiPermessi[5]="Ricciardi";
+      utentiPermessi[6]="Savini";
+      utentiPermessi[7]="Carocci";
+      utentiPermessi[8]="Boudal";
+      utentiPermessi[9]="Rosmini";
+      function div1() {
+        var usr=document.mioForm.Cognome.value;
+        var accesso=false;
+        for (var i = 0; i < utentiPermessi.length; i++) {
+          if(utentiPermessi[i]==usr)
+          {
+            accesso=true;
+            break;
+          }
+        }
+        if(accesso){
+          document.getElementById("ConfermaAccesso").style.display="block";
+          document.getElementById("ConfermaAccesso").innerHTML="<h1>Sei riuscito ad accedere!</h1>";
+          if((2023-document.mioForm.anno.value)>18)
+          {
+            document.getElementById("ConfermaAccesso").innerHTML+="<h1>Accesso come utente senior</h1>";
+          }
+          else{
+            document.getElementById("ConfermaAccesso").innerHTML+="<h2>Accesso come utente Junior</h2>";
+          }
+        }
+      }
+    </script>
+    <style>
+      #accesso{
+        width: 250px;
+        height: 320px;
+        background-color: lightblue;
+        border-radius: 20px;
+        padding: 30px;
+        display: flex;
+      }
+
+      body{
+        padding: 50px;
+        background-color: beige;
+        background-size: 200px;
+      }
+
+      *{
+        font-family: "arial";
+        font-size: 20px;
+      }
+
+      input{
+        margin-bottom: 20px;
+        width: 80%;
+      }
+
+    #ConfermaAccesso
+    {
+      width: 300px;
+      height: 300px;
+      align-self: center;
+      background-color: brown;
+      background-size: 50px;
+      border-radius: 20px;
+      display: none;
+    }
+    </style>
+  </head>
+  <body>
+    <center>
+      <div id="accesso">
+        <form class="princ1" name="mioForm">
+          <center>
+            <label for="Nome">Nome</label>
+            <input name="Nome">
+            <label for="Cognome">Cognome</label>
+            <input name="Cognome">
+            <label for="anno">Anno di nascita</label>
+            <input name="anno">
+            <label for="parolaChiave">password</label>
+            <input name="parolaChiave" type="password">
+            <input type="button" value="INVIO" onclick="div1()">
+          </center>
+        </form>
+      </div>
+    </center>
+    <center>
+      <div id="ConfermaAccesso">
+      </div>
+    </center>
+  </body>
+</html>

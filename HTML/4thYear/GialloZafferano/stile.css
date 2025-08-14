@@ -1,0 +1,51 @@
+body{
+	font: 20px Arial;
+}
+.giallo{
+	width:200px;
+}
+
+.table1{
+	color:white;
+	width:100%;
+}
+
+.table2{
+	width:80px;
+}
+.table22{
+	font: 15px Arial;	
+}
+.contenitore{
+	background-color:#AEBDE8;
+	width: 750px;
+	height: 455px;	
+	padding: 10px;
+}
+
+.menuOrizzontale{
+	background-color:#CC99FF;
+	width: 750px;
+	height: 100px;
+	text-align:center;
+	margin-bottom:5px;
+}
+
+.centro{
+	background-color:white;
+	width: 720px;
+	height: 200px;
+	border-radius: 30px;
+	padding: 10px 15px;
+	margin-bottom:5px;
+
+}
+
+.basso{
+	border:5px solid #E6CDFF;
+	background-color:#CC99FF;
+	width: 710px;
+	height: 100px;
+	border-radius: 30px;
+	padding: 10px 15px;
+}

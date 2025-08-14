@@ -1,0 +1,54 @@
+{
+  "prodotti": [
+    {
+      "nome": "Panino",
+      "prezzo": "5.00",
+      "icon": "fas fa-hamburger"
+    },
+    {
+      "nome": "Pasta",
+      "prezzo": "7.00",
+      "icon": "fas fa-utensils"
+    },
+    {
+      "nome": "Frutta",
+      "prezzo": "3.00",
+      "icon": "fas fa-apple-alt"
+    },
+    {
+      "nome": "Bibita",
+      "prezzo": "2.00",
+      "icon": "fas fa-glass-whiskey"
+    },
+    {
+      "nome": "Insalata",
+      "prezzo": "6.50",
+      "icon": "fas fa-leaf"
+    },
+    {
+      "nome": "Gelato",
+      "prezzo": "4.50",
+      "icon": "fas fa-ice-cream"
+    },
+    {
+      "nome": "Pizza",
+      "prezzo": "8.50",
+      "icon": "fas fa-pizza-slice"
+    },
+    {
+      "nome": "Sushi",
+      "prezzo": "3.50",
+      "icon": "fas fa-fish"
+    },
+    {
+      "nome": "Formaggio",
+      "prezzo": "5.50",
+      "icon": "fas fa-cheese"
+    },
+    {
+      "nome": "Torta",
+      "prezzo": "9.00",
+      "icon": "fas fa-birthday-cake"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+F:\C#\Rima Due Parole\Rima Due Parole\bin\Debug\Rima Due Parole.exe
+F:\C#\Rima Due Parole\Rima Due Parole\bin\Debug\Rima Due Parole.pdb
+F:\C#\Rima Due Parole\Rima Due Parole\obj\x86\Debug\Rima Due Parole.csprojResolveAssemblyReference.cache
+F:\C#\Rima Due Parole\Rima Due Parole\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\C#\Rima Due Parole\Rima Due Parole\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\C#\Rima Due Parole\Rima Due Parole\obj\x86\Debug\Rima Due Parole.csproj.GenerateResource.Cache
+F:\C#\Rima Due Parole\Rima Due Parole\obj\x86\Debug\Rima Due Parole.exe
+F:\C#\Rima Due Parole\Rima Due Parole\obj\x86\Debug\Rima Due Parole.pdb

@@ -1,0 +1,20 @@
+F:\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\Luca turillo base e alteza.csprojResolveAssemblyReference.cache
+F:\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\WindowsFormsApplication1.frmRettangolo.resources
+F:\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\Luca turillo base e alteza.csproj.GenerateResource.Cache
+F:\Luca turillo base e alteza\Luca turillo base e alteza\bin\Debug\Luca turillo base e alteza.exe
+F:\Luca turillo base e alteza\Luca turillo base e alteza\bin\Debug\Luca turillo base e alteza.pdb
+F:\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\Luca turillo base e alteza.exe
+F:\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\Luca turillo base e alteza.pdb
+D:\C#\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\Luca turillo base e alteza.exe
+D:\C#\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\Luca turillo base e alteza.pdb
+D:\C#\Luca turillo base e alteza\Luca turillo base e alteza\bin\Debug\Luca turillo base e alteza.exe
+D:\C#\Luca turillo base e alteza\Luca turillo base e alteza\bin\Debug\Luca turillo base e alteza.pdb
+D:\C#\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\Luca turillo base e alteza.csprojResolveAssemblyReference.cache
+D:\C#\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\WindowsFormsApplication1.frmRettangolo.resources
+D:\C#\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C#\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\Luca turillo base e alteza.csproj.GenerateResource.Cache
+F:\C#\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\Luca turillo base e alteza.exe
+F:\C#\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\Luca turillo base e alteza.pdb
+E:\C#\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\Luca turillo base e alteza.exe
+E:\C#\Luca turillo base e alteza\Luca turillo base e alteza\obj\x86\Debug\Luca turillo base e alteza.pdb

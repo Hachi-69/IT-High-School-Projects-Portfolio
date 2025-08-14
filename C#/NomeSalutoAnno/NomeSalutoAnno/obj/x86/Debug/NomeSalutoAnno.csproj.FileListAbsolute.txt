@@ -1,0 +1,8 @@
+E:\C#\NomeSalutoAnno\NomeSalutoAnno\bin\Debug\NomeSalutoAnno.exe
+E:\C#\NomeSalutoAnno\NomeSalutoAnno\bin\Debug\NomeSalutoAnno.pdb
+E:\C#\NomeSalutoAnno\NomeSalutoAnno\obj\x86\Debug\NomeSalutoAnno.csprojResolveAssemblyReference.cache
+E:\C#\NomeSalutoAnno\NomeSalutoAnno\obj\x86\Debug\WindowsFormsApplication1.frmLuca.resources
+E:\C#\NomeSalutoAnno\NomeSalutoAnno\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\NomeSalutoAnno\NomeSalutoAnno\obj\x86\Debug\NomeSalutoAnno.csproj.GenerateResource.Cache
+E:\C#\NomeSalutoAnno\NomeSalutoAnno\obj\x86\Debug\NomeSalutoAnno.exe
+E:\C#\NomeSalutoAnno\NomeSalutoAnno\obj\x86\Debug\NomeSalutoAnno.pdb

@@ -1,0 +1,10 @@
+E:\C#\grndMat\grndMat\bin\Debug\grndMat.exe
+E:\C#\grndMat\grndMat\bin\Debug\grndMat.pdb
+E:\C#\grndMat\grndMat\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\grndMat\grndMat\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\grndMat\grndMat\obj\x86\Debug\grndMat.csproj.GenerateResource.Cache
+E:\C#\grndMat\grndMat\obj\x86\Debug\grndMat.exe
+E:\C#\grndMat\grndMat\obj\x86\Debug\grndMat.pdb
+E:\C#\grndMat\grndMat\obj\x86\Debug\grndMat.csprojResolveAssemblyReference.cache
+G:\C#\grndMat\grndMat\obj\x86\Debug\grndMat.exe
+G:\C#\grndMat\grndMat\obj\x86\Debug\grndMat.pdb

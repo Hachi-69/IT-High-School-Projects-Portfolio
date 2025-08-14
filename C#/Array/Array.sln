@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{EB4C7815-5A8E-4FC3-8C10-285D0B27C20D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4C7815-5A8E-4FC3-8C10-285D0B27C20D}.Debug|x86.ActiveCfg = Debug|x86
+		{EB4C7815-5A8E-4FC3-8C10-285D0B27C20D}.Debug|x86.Build.0 = Debug|x86
+		{EB4C7815-5A8E-4FC3-8C10-285D0B27C20D}.Release|x86.ActiveCfg = Release|x86
+		{EB4C7815-5A8E-4FC3-8C10-285D0B27C20D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

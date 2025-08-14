@@ -1,0 +1,14 @@
+E:\C#\Array\Array\bin\Debug\Array.exe
+E:\C#\Array\Array\bin\Debug\Array.pdb
+E:\C#\Array\Array\obj\x86\Debug\WindowsFormsApplication1.Luca.resources
+E:\C#\Array\Array\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\Array\Array\obj\x86\Debug\Array.csproj.GenerateResource.Cache
+E:\C#\Array\Array\obj\x86\Debug\Array.exe
+E:\C#\Array\Array\obj\x86\Debug\Array.pdb
+F:\C#\Array\Array\obj\x86\Debug\Array.exe
+F:\C#\Array\Array\obj\x86\Debug\Array.pdb
+F:\C#\Array\Array\bin\Debug\Array.exe
+F:\C#\Array\Array\bin\Debug\Array.pdb
+F:\C#\Array\Array\obj\x86\Debug\WindowsFormsApplication1.Luca.resources
+F:\C#\Array\Array\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\C#\Array\Array\obj\x86\Debug\Array.csproj.GenerateResource.Cache

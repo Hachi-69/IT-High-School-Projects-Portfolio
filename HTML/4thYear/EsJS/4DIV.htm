@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="in" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> MAGGIORENNE </title>
+    <script type="text/javascript">
+      function div1() {
+        document.getElementById("div1").innerHTML="";
+        num = prompt('inserisci il numero da cui ricavare i divisori');
+        var divisori="";
+        for (var i = 0; i <= num; i++) {
+          if (num % i == 0) {
+            divisori+= i + "</br>";
+          }
+        }
+        document.getElementById("div1").innerHTML+=divisori;
+        document.getElementById("div1").style.backgroundColor = '#BFEAB5';
+      }
+
+      function div2() {
+        document.getElementById("div2").innerHTML="";
+        var dispari="";
+        for (var i = 99; i <= 199; i++) {
+          if (i % 2 != 0) {
+            dispari+= i + " ";
+          }
+        }
+        document.getElementById("div2").innerHTML+=dispari;
+        document.getElementById("div2").style.backgroundColor = '#81D66B';
+      }
+
+      function div3() {
+        document.getElementById("div3").innerHTML="";
+        var multipli="";
+        for (var i = 0; i <= 1000; i++) {
+          if (i % 11 == 0) {
+            multipli+= i + " ";
+          }
+        }
+        document.getElementById("div3").innerHTML+=multipli;
+        document.getElementById("div3").style.backgroundColor = '#4AAE31';
+      }
+
+      function div4() {
+        document.getElementById("div4").innerHTML="";
+        var pari="";
+        for (var i = 100; i <= 200; i++) {
+          if (i % 2 == 0) {
+            pari+= i + " ";
+          }
+        }
+        document.getElementById("div4").innerHTML+=pari;
+        document.getElementById("div4").style.backgroundColor = '#3C8B27';
+      }
+    </script>
+    <style>
+      #div1{
+        width: 300px;
+        height: 300px;
+        background-color: gray;
+        position: absolute;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 1;
+        margin: auto;
+      }
+      #div2{
+        width: 300px;
+        height: 300px;
+        background-color: gray;
+        position: absolute;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 30%;
+        margin: auto;
+      }
+      #div3{
+        width: 300px;
+        height: 300px;
+        background-color: gray;
+        position: absolute;
+        top:0;
+        bottom: 0;
+        left: 30%;
+        right: 0;
+        margin: auto;
+      }
+      #div4{
+        width: 300px;
+        height: 300px;
+        background-color: gray;
+        position: absolute;
+        top:0;
+        bottom: 0;
+        left: 1;
+        right: 0;
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <center>
+      <div id="div1" onclick="div1()">
+      </div>
+      <div id="div2" onclick="div2()">
+      </div>
+      <div id="div3" onclick="div3()">
+      </div>
+      <div id="div4" onclick="div4()">
+      </div>
+    </center>
+  </body>
+</html>

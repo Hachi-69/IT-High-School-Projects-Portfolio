@@ -1,0 +1,16 @@
+E:\C#\ParolaCriptata\ParolaCriptata\bin\Debug\ParolaCriptata.exe
+E:\C#\ParolaCriptata\ParolaCriptata\bin\Debug\ParolaCriptata.pdb
+E:\C#\ParolaCriptata\ParolaCriptata\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\ParolaCriptata\ParolaCriptata\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\ParolaCriptata\ParolaCriptata\obj\x86\Debug\ParolaCriptata.csproj.GenerateResource.Cache
+E:\C#\ParolaCriptata\ParolaCriptata\obj\x86\Debug\ParolaCriptata.exe
+E:\C#\ParolaCriptata\ParolaCriptata\obj\x86\Debug\ParolaCriptata.pdb
+E:\C#\ParolaCriptata\ParolaCriptata\obj\x86\Debug\ParolaCriptata.csprojResolveAssemblyReference.cache
+F:\C#\ParolaCriptata\ParolaCriptata\obj\x86\Debug\ParolaCriptata.exe
+F:\C#\ParolaCriptata\ParolaCriptata\obj\x86\Debug\ParolaCriptata.pdb
+F:\C#\ParolaCriptata\ParolaCriptata\bin\Debug\ParolaCriptata.exe
+F:\C#\ParolaCriptata\ParolaCriptata\bin\Debug\ParolaCriptata.pdb
+F:\C#\ParolaCriptata\ParolaCriptata\obj\x86\Debug\ParolaCriptata.csprojResolveAssemblyReference.cache
+F:\C#\ParolaCriptata\ParolaCriptata\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\C#\ParolaCriptata\ParolaCriptata\obj\x86\Debug\ParolaCriptata.csproj.GenerateResource.Cache
+F:\C#\ParolaCriptata\ParolaCriptata\obj\x86\Debug\WindowsFormsApplication1.frmLuca.resources

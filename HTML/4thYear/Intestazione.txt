@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+	<link href="stile.css" type=text/css rel=stylesheet>
+	
+		<title>  </title>
+	
+	</head>
+
+	<body>
+	
+	</body>
+	
+</html>

@@ -1,0 +1,16 @@
+D:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\bin\Debug\LucaTurilloFilosofi.exe
+D:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\bin\Debug\LucaTurilloFilosofi.pdb
+D:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\obj\x86\Debug\LucaTurilloFilosofi.csproj.GenerateResource.Cache
+D:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\obj\x86\Debug\LucaTurilloFilosofi.exe
+D:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\obj\x86\Debug\LucaTurilloFilosofi.pdb
+D:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\obj\x86\Debug\LucaTurilloFilosofi.csprojResolveAssemblyReference.cache
+H:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\obj\x86\Debug\LucaTurilloFilosofi.exe
+H:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\obj\x86\Debug\LucaTurilloFilosofi.pdb
+H:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\bin\Debug\LucaTurilloFilosofi.exe
+H:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\bin\Debug\LucaTurilloFilosofi.pdb
+H:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\obj\x86\Debug\LucaTurilloFilosofi.csprojResolveAssemblyReference.cache
+H:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\obj\x86\Debug\LucaTurilloFilosofi.csproj.GenerateResource.Cache
+H:\4D\C#\LucaTurilloFilosofi\LucaTurilloFilosofi\obj\x86\Debug\WindowsFormsApplication1.FrameFilosofi.resources

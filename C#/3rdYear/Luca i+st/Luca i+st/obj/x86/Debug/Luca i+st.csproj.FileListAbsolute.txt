@@ -1,0 +1,11 @@
+D:\C#\Luca i+st\Luca i+st\bin\Debug\Luca i+st.exe
+D:\C#\Luca i+st\Luca i+st\bin\Debug\Luca i+st.pdb
+D:\C#\Luca i+st\Luca i+st\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\C#\Luca i+st\Luca i+st\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C#\Luca i+st\Luca i+st\obj\x86\Debug\Luca i+st.csproj.GenerateResource.Cache
+D:\C#\Luca i+st\Luca i+st\obj\x86\Debug\Luca i+st.exe
+D:\C#\Luca i+st\Luca i+st\obj\x86\Debug\Luca i+st.pdb
+F:\C#\Luca i+st\Luca i+st\obj\x86\Debug\Luca i+st.exe
+F:\C#\Luca i+st\Luca i+st\obj\x86\Debug\Luca i+st.pdb
+E:\C#\Luca i+st\Luca i+st\obj\x86\Debug\Luca i+st.exe
+E:\C#\Luca i+st\Luca i+st\obj\x86\Debug\Luca i+st.pdb

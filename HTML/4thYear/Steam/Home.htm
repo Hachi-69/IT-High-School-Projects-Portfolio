@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="Stile.css">
+    <title> Steam </title>
+  </head>
+
+  <script type="text/javascript">
+  var gamesCounter=1;
+  var restartUp=false;
+  var restartDown=false;
+
+  function cicloUp()
+  {
+    if (restartDown) {
+      restartDown=false;
+      gamesCounter=0;
+      document.getElementById("RR").style.visibility="visible";
+      document.getElementById("PUBG").style.visibility="visible";
+      document.getElementById("DES").style.visibility="visible";
+      document.getElementById("HOG").style.visibility="visible";
+      document.getElementById("NBA").style.visibility="visible";
+      document.getElementById("CSGO").style.visibility="visible";
+      document.getElementById("WAR").style.visibility="visible";
+      document.getElementById("DOTA").style.visibility="visible";
+      document.getElementById("APEX").style.visibility="visible";
+      document.getElementById("MW").style.visibility="visible";
+      document.getElementById("R6").style.visibility="visible";
+      document.getElementById("FIFA").style.visibility="visible";
+      document.getElementById("T1").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T12").style.background="#4D657B";
+      restartDown=false;
+    }
+
+    if (restartUp) {
+      restartUp=false;
+      gamesCounter=1;
+      document.getElementById("RR").style.visibility="visible";
+      document.getElementById("PUBG").style.visibility="visible";
+      document.getElementById("DES").style.visibility="visible";
+      document.getElementById("HOG").style.visibility="visible";
+      document.getElementById("NBA").style.visibility="visible";
+      document.getElementById("CSGO").style.visibility="visible";
+      document.getElementById("WAR").style.visibility="visible";
+      document.getElementById("DOTA").style.visibility="visible";
+      document.getElementById("APEX").style.visibility="visible";
+      document.getElementById("MW").style.visibility="visible";
+      document.getElementById("R6").style.visibility="visible";
+      document.getElementById("FIFA").style.visibility="visible";
+    }
+    if(gamesCounter == 1){
+      document.getElementById("RR").style.visibility="hidden";
+      document.getElementById("T2").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T1").style.background="#4D657B";
+    }
+    if(gamesCounter == 2){
+      document.getElementById("PUBG").style.visibility="hidden";
+      document.getElementById("T3").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T2").style.background="#4D657B";
+    }
+    if(gamesCounter == 3){
+      document.getElementById("DES").style.visibility="hidden";
+      document.getElementById("T4").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T3").style.background="#4D657B";
+    }
+    if(gamesCounter == 4){
+      document.getElementById("HOG").style.visibility="hidden";
+      document.getElementById("T5").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T4").style.background="#4D657B";
+    }
+    if(gamesCounter == 5){
+      document.getElementById("NBA").style.visibility="hidden";
+      document.getElementById("T6").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T5").style.background="#4D657B";
+    }
+    if(gamesCounter == 6){
+      document.getElementById("CSGO").style.visibility="hidden";
+      document.getElementById("T7").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T6").style.background="#4D657B";
+    }
+    if(gamesCounter == 7){
+      document.getElementById("WAR").style.visibility="hidden";
+      document.getElementById("T8").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T7").style.background="#4D657B";
+    }
+    if(gamesCounter == 8){
+      document.getElementById("DOTA").style.visibility="hidden";
+      document.getElementById("T9").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T8").style.background="#4D657B";
+    }
+    if(gamesCounter == 9){
+      document.getElementById("APEX").style.visibility="hidden";
+      document.getElementById("T10").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T9").style.background="#4D657B";
+    }
+    if(gamesCounter == 10){
+      document.getElementById("MW").style.visibility="hidden";
+      document.getElementById("T11").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T10").style.background="#4D657B";
+    }
+    if(gamesCounter == 11){
+      document.getElementById("R6").style.visibility="hidden";
+      document.getElementById("T12").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T11").style.background="#4D657B";
+      document.getElementById("FIFA").style.visibility="visible";
+    }
+    if(gamesCounter == 12){
+      document.getElementById("FIFA").style.visibility="visible";
+      document.getElementById("T1").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T12").style.background="#4D657B";
+      document.getElementById("RR").style.visibility="visible";
+      restartUp=true;
+    }
+    gamesCounter++;
+  }
+  function cicloDown()
+  {
+    if (restartUp) {
+      restartUp=false;
+      gamesCounter=1;
+      document.getElementById("RR").style.visibility="visible";
+      document.getElementById("PUBG").style.visibility="visible";
+      document.getElementById("DES").style.visibility="visible";
+      document.getElementById("HOG").style.visibility="visible";
+      document.getElementById("NBA").style.visibility="visible";
+      document.getElementById("CSGO").style.visibility="visible";
+      document.getElementById("WAR").style.visibility="visible";
+      document.getElementById("DOTA").style.visibility="visible";
+      document.getElementById("APEX").style.visibility="visible";
+      document.getElementById("MW").style.visibility="visible";
+      document.getElementById("R6").style.visibility="visible";
+      document.getElementById("FIFA").style.visibility="visible";
+      restartUp=false;
+    }
+    gamesCounter--;
+    if (restartDown) {
+      restartDown=false;
+      gamesCounter=11;
+      document.getElementById("RR").style.visibility="hidden";
+      document.getElementById("PUBG").style.visibility="hidden";
+      document.getElementById("DES").style.visibility="hidden";
+      document.getElementById("HOG").style.visibility="hidden";
+      document.getElementById("NBA").style.visibility="hidden";
+      document.getElementById("CSGO").style.visibility="hidden";
+      document.getElementById("WAR").style.visibility="hidden";
+      document.getElementById("DOTA").style.visibility="hidden";
+      document.getElementById("APEX").style.visibility="hidden";
+      document.getElementById("MW").style.visibility="hidden";
+      document.getElementById("R6").style.visibility="visible";
+      document.getElementById("FIFA").style.visibility="visible";
+    }
+    if(gamesCounter == 0){
+      document.getElementById("FIFA").style.visibility="visible";
+      document.getElementById("T12").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T1").style.background="#4D657B";
+      document.getElementById("RR").style.visibility="hidden";
+      document.getElementById("PUBG").style.visibility="hidden";
+      document.getElementById("DES").style.visibility="hidden";
+      document.getElementById("HOG").style.visibility="hidden";
+      document.getElementById("NBA").style.visibility="hidden";
+      document.getElementById("CSGO").style.visibility="hidden";
+      document.getElementById("WAR").style.visibility="hidden";
+      document.getElementById("DOTA").style.visibility="hidden";
+      document.getElementById("APEX").style.visibility="hidden";
+      document.getElementById("MW").style.visibility="hidden";
+      document.getElementById("R6").style.visibility="hidden";
+      restartDown=true;
+    }
+
+    if(gamesCounter == 1){
+      document.getElementById("RR").style.visibility="visible";
+      document.getElementById("T1").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T2").style.background="#4D657B";
+    }
+    if(gamesCounter == 2){
+      document.getElementById("PUBG").style.visibility="visible";
+      document.getElementById("T2").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T3").style.background="#4D657B";
+    }
+    if(gamesCounter == 3){
+      document.getElementById("DES").style.visibility="visible";
+      document.getElementById("T3").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T4").style.background="#4D657B";
+    }
+    if(gamesCounter == 4){
+      document.getElementById("HOG").style.visibility="visible";
+      document.getElementById("T4").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T5").style.background="#4D657B";
+    }
+    if(gamesCounter == 5){
+      document.getElementById("NBA").style.visibility="visible";
+      document.getElementById("T5").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T6").style.background="#4D657B";
+    }
+    if(gamesCounter == 6){
+      document.getElementById("CSGO").style.visibility="visible";
+      document.getElementById("T6").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T7").style.background="#4D657B";
+    }
+    if(gamesCounter == 7){
+      document.getElementById("WAR").style.visibility="visible";
+      document.getElementById("T7").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T8").style.background="#4D657B";
+    }
+    if(gamesCounter == 8){
+      document.getElementById("DOTA").style.visibility="visible";
+      document.getElementById("T8").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T9").style.background="#4D657B";
+    }
+    if(gamesCounter == 9){
+      document.getElementById("APEX").style.visibility="visible";
+      document.getElementById("T9").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T10").style.background="#4D657B";
+    }
+    if(gamesCounter == 10){
+      document.getElementById("MW").style.visibility="visible";
+      document.getElementById("T10").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T11").style.background="#4D657B";
+    }
+    if(gamesCounter == 11){
+      document.getElementById("R6").style.visibility="visible";
+      document.getElementById("T11").style.background="hsla(202,60%,100%,0.7)";
+      document.getElementById("T12").style.background="#4D657B";
+    }
+  }
+
+    /* PT2 */
+    var gamesCounter1=1;
+    var restartUp1=false;
+    var restartDown1=false;
+
+    function cicloUp1()
+    {
+      if (restartDown1) {
+        restartDown1=false;
+        gamesCounter1=0;
+        document.getElementById("OFF1").style.visibility="visible";
+        document.getElementById("OFF2").style.visibility="visible";
+        document.getElementById("OFF3").style.visibility="visible";
+        document.getElementById("OFF4").style.visibility="visible";
+        document.getElementById("1T1").style.background="hsla(202,60%,100%,0.7)";
+        document.getElementById("1T4").style.background="#4D657B";
+        restartDown1=false;
+      }
+
+      if (restartUp1) {
+        restartUp1=false;
+        gamesCounter1=1;
+        document.getElementById("OFF1").style.visibility="visible";
+        document.getElementById("OFF2").style.visibility="visible";
+        document.getElementById("OFF3").style.visibility="visible";
+        document.getElementById("OFF4").style.visibility="visible";
+      }
+      if(gamesCounter1 == 1){
+        document.getElementById("OFF1").style.visibility="hidden";
+        document.getElementById("1T2").style.background="hsla(202,60%,100%,0.7)";
+        document.getElementById("1T1").style.background="#4D657B";
+      }
+      if(gamesCounter1 == 2){
+        document.getElementById("OFF2").style.visibility="hidden";
+        document.getElementById("1T3").style.background="hsla(202,60%,100%,0.7)";
+        document.getElementById("1T2").style.background="#4D657B";
+      }
+      if(gamesCounter1 == 3){
+        document.getElementById("OFF3").style.visibility="hidden";
+        document.getElementById("1T4").style.background="hsla(202,60%,100%,0.7)";
+        document.getElementById("1T3").style.background="#4D657B";
+      }
+      if(gamesCounter1 == 4){
+        document.getElementById("1T1").style.background="hsla(202,60%,100%,0.7)";
+        document.getElementById("1T4").style.background="#4D657B";
+        document.getElementById("OFF1").style.visibility="visible";
+        document.getElementById("OFF2").style.visibility="visible";
+        document.getElementById("OFF3").style.visibility="visible";
+        document.getElementById("OFF4").style.visibility="visible";
+        restartUp1=true;
+      }
+      gamesCounter1++;
+    }
+    function cicloDown1()
+    {
+      if (restartUp1) {
+        restartUp1=false;
+        gamesCounter1=1;
+        document.getElementById("OFF1").style.visibility="visible";
+        document.getElementById("OFF2").style.visibility="visible";
+        document.getElementById("OFF3").style.visibility="visible";
+        document.getElementById("OFF4").style.visibility="visible";
+        restartUp1=false;
+      }
+      gamesCounter1--;
+      if (restartDown1) {
+        restartDown1=false;
+        gamesCounter1=3;
+        document.getElementById("OFF1").style.visibility="hidden";
+        document.getElementById("OFF2").style.visibility="hidden";
+        document.getElementById("OFF3").style.visibility="visible";
+        document.getElementById("OFF4").style.visibility="visible";
+        document.getElementById("1T4").style.background="#4D657B";
+        document.getElementById("1T3").style.background="hsla(202,60%,100%,0.7)";
+      }
+      if(gamesCounter1 == 0){
+        document.getElementById("OFF4").style.visibility="visible";
+        document.getElementById("1T4").style.background="hsla(202,60%,100%,0.7)";
+        document.getElementById("1T1").style.background="#4D657B";
+        document.getElementById("OFF3").style.visibility="hidden";
+        document.getElementById("OFF2").style.visibility="hidden";
+        document.getElementById("OFF1").style.visibility="hidden";
+        restartDown1=true;
+      }
+
+      if(gamesCounter1 == 1){
+        document.getElementById("OFF1").style.visibility="visible";
+        document.getElementById("1T1").style.background="hsla(202,60%,100%,0.7)";
+        document.getElementById("1T2").style.background="#4D657B";
+      }
+      if(gamesCounter1 == 2){
+        document.getElementById("OFF2").style.visibility="visible";
+        document.getElementById("1T2").style.background="hsla(202,60%,100%,0.7)";
+        document.getElementById("1T3").style.background="#4D657B";
+      }
+      if(gamesCounter1 == 3){
+        document.getElementById("OFF3").style.visibility="visible";
+        document.getElementById("1T3").style.background="hsla(202,60%,100%,0.7)";
+        document.getElementById("1T4").style.background="#4D657B";
+      }
+      if(gamesCounter1 == 4){
+        document.getElementById("OFF4").style.visibility="visible";
+        document.getElementById("1T4").style.background="hsla(202,60%,100%,0.7)";
+        document.getElementById("1T5").style.background="#4D657B";
+      }
+}
+  </script>
+
+  <body>
+    <div class="Background">
+      <div class="Up">
+        <a href="https://store.steampowered.com/"><img src="logo_steam.png" class="LogoSteam"></a>
+        <a class="NEGOZIO" href="https://store.steampowered.com">NEGOZIO</a> &nbsp &nbsp <a class="COMUNITA" href="https://steamcommunity.com">COMUNITÀ</a>	&nbsp &nbsp <a class="CHAT" href="https://store.steampowered.com/about">CHAT</a>	&nbsp &nbsp <a class="ASSISTENZA" href="https://help.steampowered.com/it">ASSISTENZA</a>
+      </div>
+      <a href="https://store.steampowered.com/digitalgiftcards"><img src="steamcards_promo_02.png" class="steamcards"></a>
+      <div class="MenuSup">
+        <div class="Negozio">
+          <a class="NegozioTxt" href="https://store.steampowered.com">Il tuo Negozio</a>
+        </div>
+        <div class="Novita">
+          <a class="NovitaTxt" href="https://store.steampowered.com/explore/new">Novità e tendenze</a>
+        </div>
+        <div class="Categorie">
+          <a class="CategorieTxt" href="https://store.steampowered.com/genre/Free%20to%20Play">Categorie</a>
+        </div>
+        <div class="punti">
+          <a class="puntiTxt" href="https://store.steampowered.com/points/shop">Negozio dei punti</a>
+        </div>
+        <div class="Notizie">
+          <a class="NotizieTxt" href="https://store.steampowered.com/news">Notizie</a>
+        </div>
+        <div class="Laboratori">
+          <a class="LaboratoriTxt" href="https://store.steampowered.com/labs">Laboratori</a>
+        </div>
+      </div>
+      <div class="ElencoLaterale">
+        <div class="ElencoLateraleTxt">
+          <form method="post">
+            <fieldset class="Fildset">
+              <table border="0" class="elencoSX">
+                <tr>
+                  <td class="Titoli">BUONI REGALO</td>
+                </tr>
+                <tr>
+                  <td class="SubTitoli"> <a href="https://store.steampowered.com/digitalgiftcards">Ora disponibili su Steam</a></td>
+                </tr>
+                      <tr>
+                      <td><br></td>
+                      </tr>
+                <tr>
+                  <td class="Titoli">CONSIGLIATI</td>
+                </tr>
+                <tr>
+                  <img src="DagliAmici.png" class="DagliAmici">
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/recommended/friendactivity">Dagli amici</a></td>
+                </tr>
+                <tr>
+                  <img src="DaiCuratori.png" class="DaiCuratori">
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/curators">Dai curatori</a></td>
+                </tr>
+                <tr>
+                  <img src="Etichette.png" class="Etichette">
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/tag/browse/#yours">Etichette</a></td>
+                </tr>
+                      <tr>
+                      <td><br></td>
+                      </tr>
+                <tr>
+                  <td class="Titoli">ELENCHI SCOPERTE</td>
+                </tr>
+                <tr>
+                  <img src="Consigli.png" class="Consigli">
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/app/1839940/Dakar_Desert_Rally">Consigli</a></td>
+                </tr>
+                <tr>
+                  <img src="NuoveUscite1.png" class="NuoveUscite1">
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/app/2213290/Asunder">Nuove uscite</a></td>
+                </tr>
+                      <tr>
+                      <td><br></td>
+                      </tr>
+                <tr>
+                  <td class="Titoli">SFOGLIA CATEGORIE</td>
+                </tr>
+                <tr>
+                  <img src="PiuVenduti.png" class="PiuVenduti">
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/search/?filter=topsellers">I più venduti</a></td>
+                </tr>
+                <tr>
+                  <img src="NuoveUscite2.png" class="NuoveUscite2">
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/explore/new">Nuove Uscite</a></td>
+                </tr>
+                <tr>
+                  <img src="InArrivo.png" class="InArrivo">
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/explore/upcoming">In arrivo</a></td>
+                </tr>
+                <tr>
+                  <img src="OfferteSpeciali.png" class="OfferteSpeciali">
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/specials#tab=TopSellers">Offerte speciali</a></td>
+                </tr>
+                <tr>
+                  <img src="TitoliInVR.png" class="TitoliInVR">
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/vr">Titoli in VR</a></td>
+                </tr>
+                <tr>
+                  <img src="SupportoPerIController.png" class="SupportoPerIController">
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/controller">Supporto per i controller</a></td>
+                </tr>
+                      <tr>
+                      <td><br></td>
+                      </tr>
+                <tr>
+                  <td class="Titoli">SFOGLIA PER GENERE</td>
+                </tr>
+                <tr>
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/genre/Free%20to%20Play">Free-to-Play</a></td>
+                </tr>
+                <tr>
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/genre/Early%20Access">Accesso anticipato</a></td>
+                </tr>
+                <tr>
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/tags/it/Avventura">Avventura</a></td>
+                </tr>
+                <tr>
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/tags/it/Azione">Azione</a></td>
+                </tr>
+                <tr>
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/tags/it/Corse">Corse</a></td>
+                </tr>
+                <tr>
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/tags/it/GDR">GDR</a></td>
+                </tr>
+                <tr>
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/tags/it/Indie">Indie</a></td>
+                </tr>
+                <tr>
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/tags/it/Multigiocatore%20di%20massa">Multigiocatore</a></td>
+                </tr>
+                <tr>
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/tags/it/Passatempo">Passatempo</a></td>
+                </tr>
+                <tr>
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/tags/it/Simulazione">Simulazione</a></td>
+                </tr>
+                <tr>
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/tags/it/Sport">Sport</a></td>
+                </tr>
+                <tr>
+                  <td class="SubTitoli"><a href="https://store.steampowered.com/tags/it/Strategia">Strategia</a></td>
+                </tr>
+              </table>
+            </fieldset>
+          </form>
+        </div>
+      </div>
+      <div class="GamesRac">
+        <a class="evidenza"> In evidenza e consigliati </a>
+        <a href="https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"><img src="GamesRR.png" class="RR" id="RR"></a>
+        <a href="https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/"><img src="pubg.png" class="PUBG" id="PUBG"></a>
+        <a href="https://store.steampowered.com/app/1085660/Destiny_2/"><img src="destiny.png" class="DES" id="DES"></a>
+        <a href="https://store.steampowered.com/app/990080/Hogwarts_Legacy/"><img src="hog.png" class="HOG" id="HOG"></a>
+        <a href="https://store.steampowered.com/app/1919590/NBA_2K23/"><img src="nba.png" class="NBA" id="NBA"></a>
+        <a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"><img src="csgo.png" class="CSGO" id="CSGO"></a>
+        <a href="https://store.steampowered.com/app/236390/War_Thunder/"><img src="war.png" class="WAR" id="WAR"></a>
+        <a href="https://store.steampowered.com/app/570/Dota_2/"><img src="dota.png" class="DOTA" id="DOTA"></a>
+        <a href="https://store.steampowered.com/app/1172470/Apex_Legends/"><img src="apex.png" class="APEX" id="APEX"></a>
+        <a href="https://store.steampowered.com/app/1938090/Call_of_Duty_Modern_Warfare_II/"><img src="mw.png" class="MW" id="MW"></a>
+        <a href="https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/"><img src="r6.png" class="R6" id="R6"></a>
+        <a href="https://store.steampowered.com/app/1811260/EA_SPORTS_FIFA_23/"><img src="fifa.png" class="FIFA" id="FIFA"></a>
+        <img src="ArrowRight.png" class="ArrowRight">
+        <img src="ArrowLeft.png" class="ArrowLeft">
+        <img src="ArrowRightHover.png" class="ArrowRightHover" onclick="cicloUp()">
+        <img src="ArrowLeftHover.png" class="ArrowLeftHover" onclick="cicloDown()">
+        <center>
+          <div class="ThumbsContainer">
+            <div class="Thumbs1" id="T1">
+            </div>
+            <div class="Thumbs2" id="T2">
+            </div>
+            <div class="Thumbs3" id="T3">
+            </div>
+            <div class="Thumbs4" id="T4">
+            </div>
+            <div class="Thumbs5" id="T5">
+            </div>
+            <div class="Thumbs6" id="T6">
+            </div>
+            <div class="Thumbs7" id="T7">
+            </div>
+            <div class="Thumbs8" id="T8">
+            </div>
+            <div class="Thumbs9" id="T9">
+            </div>
+            <div class="Thumbs10" id="T10">
+            </div>
+            <div class="Thumbs11" id="T11">
+            </div>
+            <div class="Thumbs12" id="T12">
+            </div>
+          </div>
+        </center>
+      </div>
+      <div class="GamesRac1">
+        <a class="offerteSpeciali"> offerte speciali </a>
+        <a href="https://store.steampowered.com/specials#tab=TopSellers"><img src="off1.png" class="OFF1" id="OFF1"></a>
+        <a href="https://store.steampowered.com/specials#tab=TopSellers"><img src="off2.png" class="OFF2" id="OFF2"></a>
+        <a href="https://store.steampowered.com/specials#tab=TopSellers"><img src="off3.png" class="OFF3" id="OFF3"></a>
+        <a href="https://store.steampowered.com/specials#tab=TopSellers"><img src="off4.png" class="OFF4" id="OFF4"></a>
+        <img src="ArrowRight.png" class="ArrowRight1">
+        <img src="ArrowLeft.png" class="ArrowLeft1">
+        <img src="ArrowRightHover.png" class="ArrowRightHover1" onclick="cicloUp1();">
+        <img src="ArrowLeftHover.png" class="ArrowLeftHover1" onclick="cicloDown1()">
+        <center>
+          <div class="ThumbsContainer1">
+            <div class="Thumbs1" id="1T1">
+            </div>
+            <div class="Thumbs2" id="1T2">
+            </div>
+            <div class="Thumbs3" id="1T3">
+            </div>
+            <div class="Thumbs4" id="1T4">
+            </div>
+            </div>
+          </div>
+        </center>
+      </div>
+    </div>
+  </body>
+</html>

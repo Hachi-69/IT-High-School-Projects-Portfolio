@@ -1,0 +1,10 @@
+E:\C#\meteo\meteo\bin\Debug\meteo.exe
+E:\C#\meteo\meteo\bin\Debug\meteo.pdb
+E:\C#\meteo\meteo\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\meteo\meteo\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\meteo\meteo\obj\x86\Debug\meteo.csproj.GenerateResource.Cache
+E:\C#\meteo\meteo\obj\x86\Debug\meteo.exe
+E:\C#\meteo\meteo\obj\x86\Debug\meteo.pdb
+E:\C#\meteo\meteo\obj\x86\Debug\meteo.csprojResolveAssemblyReference.cache
+F:\C#\meteo\meteo\obj\x86\Debug\meteo.exe
+F:\C#\meteo\meteo\obj\x86\Debug\meteo.pdb

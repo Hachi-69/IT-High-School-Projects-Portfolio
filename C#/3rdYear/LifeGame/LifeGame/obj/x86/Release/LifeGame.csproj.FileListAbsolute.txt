@@ -1,0 +1,7 @@
+G:\C#\LifeGame\LifeGame\bin\Release\LifeGame.exe
+G:\C#\LifeGame\LifeGame\bin\Release\LifeGame.pdb
+G:\C#\LifeGame\LifeGame\obj\x86\Release\WindowsFormsApplication1.frmLifeGame.resources
+G:\C#\LifeGame\LifeGame\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+G:\C#\LifeGame\LifeGame\obj\x86\Release\LifeGame.csproj.GenerateResource.Cache
+G:\C#\LifeGame\LifeGame\obj\x86\Release\LifeGame.exe
+G:\C#\LifeGame\LifeGame\obj\x86\Release\LifeGame.pdb

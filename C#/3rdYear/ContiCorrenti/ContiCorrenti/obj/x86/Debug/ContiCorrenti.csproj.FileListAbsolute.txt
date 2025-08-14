@@ -1,0 +1,9 @@
+E:\C#\ContiCorrenti\ContiCorrenti\bin\Debug\ContiCorrenti.exe
+E:\C#\ContiCorrenti\ContiCorrenti\bin\Debug\ContiCorrenti.pdb
+E:\C#\ContiCorrenti\ContiCorrenti\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\ContiCorrenti\ContiCorrenti\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\ContiCorrenti\ContiCorrenti\obj\x86\Debug\ContiCorrenti.csproj.GenerateResource.Cache
+E:\C#\ContiCorrenti\ContiCorrenti\obj\x86\Debug\ContiCorrenti.exe
+E:\C#\ContiCorrenti\ContiCorrenti\obj\x86\Debug\ContiCorrenti.pdb
+F:\C#\ContiCorrenti\ContiCorrenti\obj\x86\Debug\ContiCorrenti.exe
+F:\C#\ContiCorrenti\ContiCorrenti\obj\x86\Debug\ContiCorrenti.pdb

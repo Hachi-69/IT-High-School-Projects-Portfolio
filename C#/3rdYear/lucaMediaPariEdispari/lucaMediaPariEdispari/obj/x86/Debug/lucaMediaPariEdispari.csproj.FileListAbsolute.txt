@@ -1,0 +1,10 @@
+E:\C#\lucaMediaPariEdispari\lucaMediaPariEdispari\bin\Debug\lucaMediaPariEdispari.exe
+E:\C#\lucaMediaPariEdispari\lucaMediaPariEdispari\bin\Debug\lucaMediaPariEdispari.pdb
+E:\C#\lucaMediaPariEdispari\lucaMediaPariEdispari\obj\x86\Debug\lucaMediaPariEdispari.csprojResolveAssemblyReference.cache
+E:\C#\lucaMediaPariEdispari\lucaMediaPariEdispari\obj\x86\Debug\WindowsFormsApplication1.frmLuca.resources
+E:\C#\lucaMediaPariEdispari\lucaMediaPariEdispari\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\lucaMediaPariEdispari\lucaMediaPariEdispari\obj\x86\Debug\lucaMediaPariEdispari.csproj.GenerateResource.Cache
+E:\C#\lucaMediaPariEdispari\lucaMediaPariEdispari\obj\x86\Debug\lucaMediaPariEdispari.exe
+E:\C#\lucaMediaPariEdispari\lucaMediaPariEdispari\obj\x86\Debug\lucaMediaPariEdispari.pdb
+F:\C#\lucaMediaPariEdispari\lucaMediaPariEdispari\obj\x86\Debug\lucaMediaPariEdispari.exe
+F:\C#\lucaMediaPariEdispari\lucaMediaPariEdispari\obj\x86\Debug\lucaMediaPariEdispari.pdb

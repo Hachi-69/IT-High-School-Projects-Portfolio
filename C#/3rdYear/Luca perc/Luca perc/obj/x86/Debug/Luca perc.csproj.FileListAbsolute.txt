@@ -1,0 +1,18 @@
+D:\C#\Luca perc\Luca perc\bin\Debug\Luca perc.exe
+D:\C#\Luca perc\Luca perc\bin\Debug\Luca perc.pdb
+D:\C#\Luca perc\Luca perc\obj\x86\Debug\Luca perc.csprojResolveAssemblyReference.cache
+D:\C#\Luca perc\Luca perc\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\C#\Luca perc\Luca perc\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C#\Luca perc\Luca perc\obj\x86\Debug\Luca perc.csproj.GenerateResource.Cache
+D:\C#\Luca perc\Luca perc\obj\x86\Debug\Luca perc.exe
+D:\C#\Luca perc\Luca perc\obj\x86\Debug\Luca perc.pdb
+F:\C#\Luca perc\Luca perc\obj\x86\Debug\Luca perc.exe
+F:\C#\Luca perc\Luca perc\obj\x86\Debug\Luca perc.pdb
+F:\C#\Luca perc\Luca perc\bin\Debug\Luca perc.exe
+F:\C#\Luca perc\Luca perc\bin\Debug\Luca perc.pdb
+F:\C#\Luca perc\Luca perc\obj\x86\Debug\Luca perc.csprojResolveAssemblyReference.cache
+F:\C#\Luca perc\Luca perc\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\C#\Luca perc\Luca perc\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\C#\Luca perc\Luca perc\obj\x86\Debug\Luca perc.csproj.GenerateResource.Cache
+E:\C#\Luca perc\Luca perc\obj\x86\Debug\Luca perc.exe
+E:\C#\Luca perc\Luca perc\obj\x86\Debug\Luca perc.pdb

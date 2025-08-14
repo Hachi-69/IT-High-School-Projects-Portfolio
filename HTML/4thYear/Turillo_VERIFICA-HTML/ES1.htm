@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> TURILLO </title>
+    <script>
+    function saluti(){
+      var nome=document.Form.Nome.value;
+      var cognome=document.Form.Cognome.value;
+      var data = new Date();
+      var ora = data.getHours();
+      var giorno = data.getDate();
+      var mese = data.getMonth()+1;
+      var anno = data.getFullYear();
+      if (ora<=13&&ora>=06) {
+        alert("Buongiorno " + cognome + " " + nome);
+      }else if (ora<18&&ora>14) {
+        alert("Buon Pomeriggio " + cognome + " " + nome);
+      }else if (ora<23&&ora>18) {
+        alert("Buona Sera " + cognome + " " + nome);
+      }else if (ora<24&&ora>05) {
+        alert("Buona Notte " + cognome + " " + nome);
+      }
+    }
+    </script>
+    <style>
+      #sus{
+        width: 300px;
+        height: 100px;
+        background-color: lightgray;
+        position: absolute;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+      #btn{
+        width: 100px;
+        height: 50px;
+        background-color: lightgray;
+        position: absolute;
+        top:400px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <center>
+      <div id="sus">
+        <form class="frm" name="Form">
+          <label for="Nome">Nome</label>
+          <input type="text" name="Nome" id="Nome">
+        </br> </br> </br>
+          <label for="Cognome">Cognome</label>
+          <input type="text" name="Cognome" id="Cognome">
+      </form>
+      </div>
+      <button id="btn" onclick="saluti()">SALUTI</button>
+    </center>
+  </body>
+</html>

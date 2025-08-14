@@ -1,0 +1,10 @@
+E:\C#\4Bottoni\4Bottoni\bin\Debug\4Bottoni.exe
+E:\C#\4Bottoni\4Bottoni\bin\Debug\4Bottoni.pdb
+E:\C#\4Bottoni\4Bottoni\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\4Bottoni\4Bottoni\obj\x86\Debug\4Bottoni.csproj.GenerateResource.Cache
+E:\C#\4Bottoni\4Bottoni\obj\x86\Debug\4Bottoni.exe
+E:\C#\4Bottoni\4Bottoni\obj\x86\Debug\4Bottoni.pdb
+E:\C#\4Bottoni\4Bottoni\obj\x86\Debug\4Bottoni.csprojResolveAssemblyReference.cache
+E:\C#\4Bottoni\4Bottoni\obj\x86\Debug\WindowsFormsApplication1.frmLuca.resources
+F:\C#\4Bottoni\4Bottoni\obj\x86\Debug\4Bottoni.exe
+F:\C#\4Bottoni\4Bottoni\obj\x86\Debug\4Bottoni.pdb

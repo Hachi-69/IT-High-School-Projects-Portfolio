@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> TURILLO </title>
+    <script>
+    function array(){
+      var array = [];
+      while(array.length < 10){
+          var rnd = Math.floor(Math.random() * 90) + 1;
+          if(array.indexOf(rnd) == -1){
+            array.push(rnd);
+          }
+      }
+      document.getElementById("div1").innerHTML+=array;
+
+      var array2 = [];
+      while(array2.length < 5){
+        do{
+          n = prompt('Inserisci il numero che vuoi inserire dentro l array');
+        }while (n<1&&n>90)
+        if(array2.indexOf(n) == -1){
+          array2.push(n);
+        }
+      }
+      document.getElementById("div2").innerHTML+=array2;
+
+      counter = 0;
+      for (var i = 0; i < array.length; i++) {
+        if (array2[0]==array[i]) {
+          counter++;
+        }else if (array2[1]==array[i]) {
+          counter++;
+        }else if (array2[2]==array[i]) {
+          counter++;
+        }else if (array2[3]==array[i]) {
+          counter++;
+        }else if (array2[4]==array[i]) {
+          counter++;
+        }
+      }
+      if (counter==2) {
+        alert("ambo");
+      }else if (counter==3) {
+        alert("terna");
+      }else if (counter==4) {
+        alert("quaterna");
+      }else if (counter==5) {
+        alert("cinquina");
+      }else {
+        alert("Mi dispiace hai perso :(");
+      }
+    }
+    </script>
+    <style>
+      #div1{
+        width: 300px;
+        height: 100px;
+        background-color: lightgray;
+        position: absolute;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+      #div2{
+        width: 300px;
+        height: 100px;
+        background-color: lightgray;
+        position: absolute;
+        top:0;
+        bottom: 300px;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+      #btn{
+        width: 100px;
+        height: 50px;
+        background-color: lightgray;
+        position: absolute;
+        top:400px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <center>
+      <div id="div1">
+      </div>
+      <div id="div2">
+      </div>
+      <button id="btn" onclick="array()">START</button>
+    </center>
+  </body>
+</html>

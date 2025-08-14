@@ -1,0 +1,15 @@
+E:\C#\Tris\Tris\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\Tris\Tris\obj\x86\Debug\Tris.csproj.GenerateResource.Cache
+E:\C#\Tris\Tris\bin\Debug\Tris.exe
+E:\C#\Tris\Tris\bin\Debug\Tris.pdb
+E:\C#\Tris\Tris\obj\x86\Debug\Tris.exe
+E:\C#\Tris\Tris\obj\x86\Debug\Tris.pdb
+G:\C#\Tris\Tris\obj\x86\Debug\Tris.exe
+G:\C#\Tris\Tris\obj\x86\Debug\Tris.pdb
+G:\C#\Tris\Tris\bin\Debug\Tris.exe
+G:\C#\Tris\Tris\bin\Debug\Tris.pdb
+G:\C#\Tris\Tris\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\C#\Tris\Tris\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\C#\Tris\Tris\obj\x86\Debug\Tris.csproj.GenerateResource.Cache
+E:\C#\Tris\Tris\obj\x86\Debug\Tris.csprojResolveAssemblyReference.cache
+E:\C#\Tris\Tris\obj\x86\Debug\WindowsFormsApplication1.frmGioco.resources

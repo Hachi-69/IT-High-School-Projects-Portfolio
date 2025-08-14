@@ -1,0 +1,16 @@
+E:\C#\LifeGame\LifeGame\bin\Debug\LifeGame.exe
+E:\C#\LifeGame\LifeGame\bin\Debug\LifeGame.pdb
+E:\C#\LifeGame\LifeGame\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\LifeGame\LifeGame\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\LifeGame\LifeGame\obj\x86\Debug\LifeGame.csproj.GenerateResource.Cache
+E:\C#\LifeGame\LifeGame\obj\x86\Debug\LifeGame.exe
+E:\C#\LifeGame\LifeGame\obj\x86\Debug\LifeGame.pdb
+G:\C#\LifeGame\LifeGame\obj\x86\Debug\LifeGame.exe
+G:\C#\LifeGame\LifeGame\obj\x86\Debug\LifeGame.pdb
+G:\C#\LifeGame\LifeGame\bin\Debug\LifeGame.exe
+G:\C#\LifeGame\LifeGame\bin\Debug\LifeGame.pdb
+G:\C#\LifeGame\LifeGame\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\C#\LifeGame\LifeGame\obj\x86\Debug\LifeGame.csproj.GenerateResource.Cache
+G:\C#\LifeGame\LifeGame\obj\x86\Debug\LifeGame.csprojResolveAssemblyReference.cache
+E:\C#\LifeGame\LifeGame\obj\x86\Debug\LifeGame.csprojResolveAssemblyReference.cache
+G:\C#\LifeGame\LifeGame\obj\x86\Debug\WindowsFormsApplication1.frmLifeGame.resources

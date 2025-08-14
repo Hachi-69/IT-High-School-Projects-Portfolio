@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="23" xOffset="0" scrollWidth="784" startPos="353" endPos="353" selMode="0" offset="0" wrapCount="1" lang="HTML" encoding="-1" userReadOnly="no" filename="E:\4D\HTML\QuattroStagioni\home.htm" backupFilePath="" originalFileLastModifTimestamp="2051105280" originalFileLastModifTimestampHigh="30988445" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="532" startPos="92" endPos="92" selMode="0" offset="0" wrapCount="1" lang="CSS" encoding="-1" userReadOnly="no" filename="E:\4D\HTML\QuattroStagioni\stile.css" backupFilePath="" originalFileLastModifTimestamp="516137984" originalFileLastModifTimestampHigh="30988446" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="512" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

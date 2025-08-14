@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> TURILLO </title>
+    <script>
+    tentativi=0;
+    num = Math.floor(Math.random()* 100 + 0);
+    alert("numero segreto: "+num);
+    function indovina(){
+      n = prompt('Inserisci il numero');
+      document.getElementById("div1").innerHTML+=n+" ";
+      if (n==num) {
+        document.getElementById("div1").style.backgroundColor = 'green';
+        alert("INDOVINATO, Hai vinto, hai battuto il computer :)");
+      }else {
+        if (n>num) {
+          alert("Troppo Grande");
+        }else {
+          alert("Troppo Piccolo");
+        }
+        tentativi++;
+      }
+      if (tentativi==8) {
+        alert("Hai perso, il computer ha vinto :(");
+      }
+    }
+    </script>
+    <style>
+      #div1{
+        width: 300px;
+        height: 100px;
+        background-color: lightgray;
+        position: absolute;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+      #btn{
+        width: 100px;
+        height: 50px;
+        background-color: lightgray;
+        position: absolute;
+        top:400px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <center>
+      <div id="div1">
+
+      </div>
+      <button id="btn" onclick="indovina()">INDOVINA</button>
+    </center>
+  </body>
+</html>

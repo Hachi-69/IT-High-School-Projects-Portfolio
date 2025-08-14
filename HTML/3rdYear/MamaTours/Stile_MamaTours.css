@@ -1,0 +1,16 @@
+table{
+	border: 3px solid black;
+	border-collapse: collapse;
+	background-color: lightgrey;
+}
+
+body{
+background-color: darkgrey;
+}
+
+img{
+	width: 250px;
+	height: 150px;
+	border: 1px solid black;
+}
+

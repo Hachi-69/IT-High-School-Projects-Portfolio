@@ -1,0 +1,14 @@
+E:\C#\Macchinetta\Macchinetta\bin\Debug\Macchinetta.exe
+E:\C#\Macchinetta\Macchinetta\bin\Debug\Macchinetta.pdb
+E:\C#\Macchinetta\Macchinetta\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\Macchinetta\Macchinetta\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\Macchinetta\Macchinetta\obj\x86\Debug\Macchinetta.csproj.GenerateResource.Cache
+E:\C#\Macchinetta\Macchinetta\obj\x86\Debug\Macchinetta.exe
+E:\C#\Macchinetta\Macchinetta\obj\x86\Debug\Macchinetta.pdb
+F:\C#\Macchinetta\Macchinetta\obj\x86\Debug\Macchinetta.exe
+F:\C#\Macchinetta\Macchinetta\obj\x86\Debug\Macchinetta.pdb
+F:\C#\Macchinetta\Macchinetta\bin\Debug\Macchinetta.exe
+F:\C#\Macchinetta\Macchinetta\bin\Debug\Macchinetta.pdb
+F:\C#\Macchinetta\Macchinetta\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\C#\Macchinetta\Macchinetta\obj\x86\Debug\Macchinetta.csproj.GenerateResource.Cache
+F:\C#\Macchinetta\Macchinetta\obj\x86\Debug\WindowsFormsApplication1.frmMacchinettaLuca.resources

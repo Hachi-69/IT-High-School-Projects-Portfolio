@@ -1,0 +1,7 @@
+D:\4D\C#\simulazioneCPU\simulazioneCPU\bin\Release\simulazioneCPU.exe
+D:\4D\C#\simulazioneCPU\simulazioneCPU\bin\Release\simulazioneCPU.pdb
+D:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Release\simulazioneCPU.csproj.GenerateResource.Cache
+D:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Release\simulazioneCPU.exe
+D:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Release\simulazioneCPU.pdb

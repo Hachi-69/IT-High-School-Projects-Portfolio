@@ -1,0 +1,11 @@
+D:\C#\LucaPerfetto\LucaPerfetto\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\C#\LucaPerfetto\LucaPerfetto\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C#\LucaPerfetto\LucaPerfetto\obj\x86\Debug\LucaPerfetto.csproj.GenerateResource.Cache
+D:\C#\LucaPerfetto\LucaPerfetto\bin\Debug\LucaPerfetto.exe
+D:\C#\LucaPerfetto\LucaPerfetto\bin\Debug\LucaPerfetto.pdb
+D:\C#\LucaPerfetto\LucaPerfetto\obj\x86\Debug\LucaPerfetto.exe
+D:\C#\LucaPerfetto\LucaPerfetto\obj\x86\Debug\LucaPerfetto.pdb
+F:\C#\LucaPerfetto\LucaPerfetto\obj\x86\Debug\LucaPerfetto.exe
+F:\C#\LucaPerfetto\LucaPerfetto\obj\x86\Debug\LucaPerfetto.pdb
+E:\C#\LucaPerfetto\LucaPerfetto\obj\x86\Debug\LucaPerfetto.exe
+E:\C#\LucaPerfetto\LucaPerfetto\obj\x86\Debug\LucaPerfetto.pdb

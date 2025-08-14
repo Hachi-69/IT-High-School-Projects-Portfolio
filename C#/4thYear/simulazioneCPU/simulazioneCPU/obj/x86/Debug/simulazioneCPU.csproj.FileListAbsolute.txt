@@ -1,0 +1,16 @@
+D:\4D\C#\simulazioneCPU\simulazioneCPU\bin\Debug\simulazioneCPU.exe
+D:\4D\C#\simulazioneCPU\simulazioneCPU\bin\Debug\simulazioneCPU.pdb
+D:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Debug\simulazioneCPU.csproj.GenerateResource.Cache
+D:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Debug\simulazioneCPU.exe
+D:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Debug\simulazioneCPU.pdb
+D:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Debug\simulazioneCPU.csprojResolveAssemblyReference.cache
+G:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Debug\simulazioneCPU.exe
+G:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Debug\simulazioneCPU.pdb
+G:\4D\C#\simulazioneCPU\simulazioneCPU\bin\Debug\simulazioneCPU.exe
+G:\4D\C#\simulazioneCPU\simulazioneCPU\bin\Debug\simulazioneCPU.pdb
+G:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Debug\simulazioneCPU.csprojResolveAssemblyReference.cache
+G:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\4D\C#\simulazioneCPU\simulazioneCPU\obj\x86\Debug\simulazioneCPU.csproj.GenerateResource.Cache
